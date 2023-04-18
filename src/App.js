@@ -1,10 +1,10 @@
+import './App.css';
 import requests from './api/request';
+import styled from 'styled-components';
 import Banner from './components/Banner';
 import Category from './components/Category';
 import Nav from './components/Nav';
 import Row from './components/Row';
-import styled from 'styled-components';
-import './App.css';
 
 function App() {
     return (
